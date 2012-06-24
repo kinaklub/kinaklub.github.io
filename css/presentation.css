@@ -185,6 +185,12 @@ body {
     padding: 20px;
 }
 
+#email div {
+    position: fixed;
+    top: 200px;
+    text-align: center;
+}
+
 /*
     The last step is an overview.
     There is no content in it, so we make sure it's not visible because we want
