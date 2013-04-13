@@ -161,6 +161,14 @@ body {
     text-shadow: -2px 0 #333333, 0 2px #333333, 2px 0 #333333, 0 -2px #333333;
 }
 
+#project-film-coop a {
+    color: #FFFFFF;
+    position: fixed;
+    top: 450px;
+    left: 125px;
+    font-size: 30px;
+}
+
 #project-screenings h3 {
     font-size: 66px;
     color: #55EEEE;
